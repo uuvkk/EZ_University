@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'Li_Jiazheng_ez_university.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, '../db.sqlite3'),
+        'NAME': os.path.join(BASE_DIR, '../courseinfo/old_copy_of_db/../../db.sqlite3'),
     }
 }
 

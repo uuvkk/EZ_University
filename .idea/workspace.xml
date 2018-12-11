@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b73c2dde-336d-4808-a193-32097e1cb4d5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/autocomplete.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/fonts.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/responsive.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/responsive_rtl.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/vendor/select2/LICENSE-SELECT2.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/vendor/select2/select2.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/vendor/select2/select2.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectBox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/actions.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/autocomplete.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/calendar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/cancel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/change_form.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/collapse.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/core.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/inlines.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/jquery.init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/popup_response.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/timeparse.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/urlify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/LICENSE.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/az.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/bg.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ca.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/cs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/da.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/de.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/el.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/et.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/eu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fa.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/fr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/gl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/he.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/hu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/id.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/is.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ja.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/km.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ko.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/lt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/lv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/mk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ms.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/nb.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/nl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pt-BR.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/pt.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/ru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/sv.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/th.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/uk.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/vi.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/zh-CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/i18n/zh-TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/select2.full.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/select2/select2.full.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/courseinfo/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/courseinfo/normalize.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/courseinfo/skeleton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/courseinfo/style.css" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/base.py" afterPath="$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/base.py" />
+      <change beforePath="$PROJECT_DIR$/courseinfo/old_copy_of_db/db.sqlite3" afterPath="$PROJECT_DIR$/courseinfo/old_copy_of_db/db.sqlite3" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/manage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="development.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/development.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="production.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/production.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="124" column="41" lean-forward="false" selection-start-line="124" selection-start-column="41" selection-end-line="124" selection-end-column="41" />
+              <folding>
+                <element signature="e#326#335#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/requirements/base.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0011_create_groups.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ForeignKey</find>
+      <find>instru</find>
+      <find>Course</find>
+      <find>Student</find>
+      <find>inst</find>
+      <find>ins</find>
+      <find>get_delete_url</find>
+      <find>section</find>
+      <find>registration</find>
+      <find>Semester</find>
+      <find>Instructor</find>
+      <find>courseinfo_instructor_list_urlpattern</find>
+      <find>semester</find>
+      <find>courseinfo_instructor_delete_urlpattern</find>
+      <find>Section</find>
+      <find>Period</find>
+      <find>unique</find>
+      <find>nick</find>
+      <find>nickname</find>
+      <find>instructor</find>
+      <find>UpdateView</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>course</replace>
+      <replace>Semester</replace>
+      <replace>sections</replace>
+      <replace>Section</replace>
+      <replace>student</replace>
+      <replace>semester</replace>
+      <replace>Course</replace>
+      <replace>section</replace>
+      <replace>registration</replace>
+      <replace>Registration</replace>
+      <replace>Student</replace>
+      <replace>Year</replace>
+      <replace>nick_name</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_form_update.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_form_update.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_form_update.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_form_update.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/urls.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/helper.py" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_confirm_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_refuse_delete.html" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0002_auto_20180926_1622.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0004_semester_data.py" />
+        <option value="$PROJECT_DIR$/courseinfo/admin.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0006_year_schema_and_data.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0005_period_schema_and_data.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0007_semester_schema_and_data_conversion.py" />
+        <option value="$PROJECT_DIR$/courseinfo/models.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0009_load_instructor_test_data.py" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0010_load_student_test_data.py" />
+        <option value="$PROJECT_DIR$/courseinfo/utils.py" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/login.html" />
+        <option value="$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html" />
+        <option value="$PROJECT_DIR$/courseinfo/views.py" />
+        <option value="$PROJECT_DIR$/Li_Jiazheng_ez_university/urls.py" />
+        <option value="$PROJECT_DIR$/Li_Jiazheng_ez_university/settings.py" />
+        <option value="$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/__init__.py" />
+        <option value="$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/production.py" />
+        <option value="$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/development.py" />
+        <option value="$PROJECT_DIR$/Li_Jiazheng_ez_university/requirements/base.txt" />
+        <option value="$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py" />
+        <option value="$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/base.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Li_Jiazheng_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Li_Jiazheng_ez_university" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Li_Jiazheng_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Li_Jiazheng_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Li_Jiazheng_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Li_Jiazheng_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
+              <item name="old_copy_of_db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Li_Jiazheng_ez_university" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Li_Jiazheng_ez_university" type="462c0819:PsiDirectoryNode" />
+              <item name="Li_Jiazheng_ez_university" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/courseinfo/old_copy_of_db" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/courseinfo/disabled_migrations" />
+      <recent name="$PROJECT_DIR$/courseinfo/migrations" />
+      <recent name="$PROJECT_DIR$/Li_Jiazheng_ez_university/settings" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/courseinfo" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/courseinfo/templates/courseinfo" />
+      <recent name="$PROJECT_DIR$/courseinfo/templates" />
+      <recent name="$PROJECT_DIR$/courseinfo/static/courseinfo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Li_Jiazheng_ez_university" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Li_Jiazheng_ez_university.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Li_Jiazheng_ez_university" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b73c2dde-336d-4808-a193-32097e1cb4d5" name="Default" comment="" />
+      <created>1537934700834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537934700834</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956153" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28174123" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2932761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@Li_Jiazheng_ez_university" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@Li_Jiazheng_ez_university" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32956153" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_confirm_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_confirm_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_refuse_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="77" lean-forward="false" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_refuse_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="60" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_refuse_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="88" lean-forward="false" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/helper.py" />
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_refuse_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="73" lean-forward="false" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0003_auto_20181031_1704.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0002_auto_20180926_1622.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="47" column="10" lean-forward="false" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_refuse_delete.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="80" lean-forward="false" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0005_period_schema_and_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0004_semester_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0006_year_schema_and_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="32" column="50" lean-forward="false" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0007_semester_schema_and_data_conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="119" column="33" lean-forward="false" selection-start-line="119" selection-start-column="33" selection-end-line="119" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0008_auto_20181107_1717.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/disabled_migrations/0009_load_instructor_test_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="47" lean-forward="false" selection-start-line="0" selection-start-column="47" selection-end-line="0" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/disabled_migrations/0010_load_student_test_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9900">
+          <caret line="661" column="40" lean-forward="false" selection-start-line="661" selection-start-column="40" selection-end-line="661" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/old_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="124" column="20" lean-forward="false" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#28#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="38" lean-forward="false" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="381" column="44" lean-forward="false" selection-start-line="381" selection-start-column="44" selection-end-line="381" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#82#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0011_create_groups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/development.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/production.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/requirements/base.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/static/admin/js/admin/DateTimeShortcuts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Li_Jiazheng_ez_university/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="124" column="41" lean-forward="false" selection-start-line="124" selection-start-column="41" selection-end-line="124" selection-end-column="41" />
+          <folding>
+            <element signature="e#326#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
